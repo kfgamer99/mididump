@@ -1,1 +1,1 @@
-# mididump
+This is a set of midi files that were generated using @nikhilbarhate99's minimal implementation of Andrej Karpathy's Char-RNN (https://github.com/nikhilbarhate99/Char-RNN-PyTorch) to create AI generated music using a technique made by Cary Huang (@Carykh).
